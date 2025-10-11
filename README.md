@@ -1,4 +1,5 @@
-Topic : a program to display smallest and largest number by using function and store them. 
+Topic : a program to display smallest and largest number by using function and store them.  
+
 Input : the number selected by user from the menu and numbers that are taken from user. 
 Process :
  module:/
